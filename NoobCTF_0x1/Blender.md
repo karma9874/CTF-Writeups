@@ -62,5 +62,3 @@ so remeber the page from `/flag.html` we need to submit the fake flag there to g
 so we get the flag from there `noob{y0u_w0rk3d_h4rd_f0r_pr0f3ssor_s0_y0u_4re_IN}`
 
 ![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/flag.JPG)
-
-broken_iamge
