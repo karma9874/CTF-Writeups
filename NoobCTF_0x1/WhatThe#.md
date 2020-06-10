@@ -14,7 +14,7 @@ First I tried to decode the this with `dcode fr` but it gave me some errors
 
 So after some researching I got to know there is other kind of brainfuck to know as `reversefuck`
 
-Used this [decoder]https://www.dcode.fr/reversefuck-language) 
+Used this [decoder](https://www.dcode.fr/reversefuck-language) 
 
 and we get the flag `noob{N0t_4lw4y5_br41n}`
 
