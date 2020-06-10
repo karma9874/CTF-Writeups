@@ -18,7 +18,7 @@ Disallow: /flag.html
 
 got this  `/flag.html`
 
-![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/blunder_robots.JPG)
+![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/blender_robots.JPG)
 
 So the clue says `Check out author's margatsnI`
 
