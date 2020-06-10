@@ -7,7 +7,7 @@ Title                                    Category
 The imitation game                       Miscellaneous       
 Think OUT THE BOX                        Miscellaneous
 
-Gross                                    Crypto
+[Gross](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Advance%20encryption.md)                                   Crypto
 WhatThe#                                 Crypto
 BASEd                                    Crypto
 I'am 4 Farmerrrrr!                       Crypto
