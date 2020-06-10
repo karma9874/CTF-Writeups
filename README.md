@@ -1,5 +1,8 @@
 # NoobCTF 0x1 Writeups
 
+This Ctf I was playing with team `DarkArmy` we managed 4th spot in NoobCTF 0x1
+
+![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/4th.JPG)
 ## Overview
 | Names                   | Category |
 |------------------------|--------|
