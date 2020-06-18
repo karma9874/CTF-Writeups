@@ -48,7 +48,7 @@ So i tried first part from rsa output as key and second output as input separate
 
 Now what about IV ?
 
-I changed the mode to EBC which doesn't require IV
+I changed the mode to ECB which doesn't require IV
 
 ![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/des.JPG)
 
