@@ -9,7 +9,7 @@ Given file [leaked.txt](https://raw.githubusercontent.com/The-deviner/NoobCTF-0x
 
 From the file we know it is rsa and we have n,p,c
 
-We get the fator from [factor db](http://factordb.com/)
+We get the factor from [factor db](http://factordb.com/)
 
 ```
 p =  37811 
@@ -38,7 +38,7 @@ And we get
 7A392A1577F7921D840A5DD8BC5C2C184DE17387E68D6168,b15bfdaa5c0e3a1ae9d2b435cdee81eba9e037d99bae6fb7f79bb00a6e1903fb
 ```
 
-Now this is where I stucked, from description we need to find algo wich is more secure than des and less secure than aes 
+Now this is where I got stuck, from description we need to find algo wich is more secure than des and less secure than aes 
 
 So after lot of reseaching i got TripleDES algo 
 
@@ -48,7 +48,7 @@ So i tried first part from rsa output as key and second output as input separate
 
 Now what about IV ?
 
-I changed the mode to EBC which doesnt requires IV
+I changed the mode to EBC which doesn't require IV
 
 ![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/des.JPG)
 
