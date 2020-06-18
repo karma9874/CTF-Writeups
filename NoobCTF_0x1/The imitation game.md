@@ -28,7 +28,7 @@ So I just copy all the test and pasted on a text editor and I got this
 
 ![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/imitation_token.JPG)
 
-After reasearching a bit I got to know that this is enigma rotors value. So lets try to decode that text from the `game.txt`
+After a bit of research, I got to know that this is enigma rotors value. So we tried to decode that text from the `game.txt`
 
 I used this [Cryptii engima decoder](https://cryptii.com/pipes/enigma-decoder) tool to decode the enigma
 
