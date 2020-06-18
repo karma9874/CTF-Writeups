@@ -9,7 +9,7 @@ Given file [Think_OUT_THE_BOX.txt](https://raw.githubusercontent.com/AdityaSec/N
 
 After reading the description, it seems to do something with length and the text in that file seems to be comma separated.
 
-So my teamate said what if we count the lenght of the string till comma, so it trurns out that the length was ascii representation of flag
+So my teammate said what if we count the length of the string till comma, so it trurns out that the length was ascii representation of flag
 
 I wrote a quick python script to do that
 
