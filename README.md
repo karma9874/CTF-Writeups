@@ -2,7 +2,7 @@
 
 In this Ctf I was playing with team `DarkArmy` we managed 4th spot in NoobCTF 0x1
 
-![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Images/4th.JPG)
+![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Images/noob.JPG)
 ## Overview
 | Names                   | Category |
 |------------------------|--------|
@@ -18,3 +18,16 @@ In this Ctf I was playing with team `DarkArmy` we managed 4th spot in NoobCTF 0x
 | [The imitation gam](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/The%20imitation%20game.md) | Miscellaneous |
 | [Think OUT THE BOX](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Think%20OUT%20THE%20BOX.md) | Miscellaneous |
 | [Blender](https://github.com/karma9874/CTF-Writeups/blob/master/NoobCTF_0x1/Blender.md) | Miscellaneous |
+
+# Zh3ro-CTF 0x1 Writeups
+
+In this CTF we managed 9th spot on the leaderboard
+
+![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Images/zhero.JPG)
+
+## Overview
+| Names                   | Category |
+|------------------------|--------|
+| [HastadsMessage](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/HastadsMessage.md)| Crypto  |
+| [WeAreRelated](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/WeAreRelated.md) | Crypto   |
+| [Analyse me](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/AnalyseMe.md) | Crypto  |
