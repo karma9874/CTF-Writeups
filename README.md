@@ -36,3 +36,4 @@ In this CTF we managed 9th spot on the leaderboard
 | [HastadsMessage](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/HastadsMessage.md)| Crypto  |
 | [WeAreRelated](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/WeAreRelated.md) | Crypto   |
 | [Analyse me](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/AnalyseMe.md) | Crypto  |
+| [Double fish](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/Double_fish.md) | Crypto  |
