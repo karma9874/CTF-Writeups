@@ -17,7 +17,7 @@ gAAAAABe0lyu1kzJxIgHiMeg8njOZm_8H2oJZtMOR-bhp-ozznCFkkY5H3l9BG1dKh7kpf_OKaHRJkWT
 ```
 The starting part is `AAAAA` so I quicky thought of [Fernet (Decode)](https://asecuritysite.com/encryption/ferdecode) used this tool to decode that cipher but we need a key to decode it 
 
-So I started looking at other text and did ROT47 on that and it tourned out to be base64 `e1o6A1qXqFvaG77XpHZTxOcnepxXYIJlGj0GqpLXltQ=`
+So I started looking at other text and did ROT47 on that and it turned out to be base64 `e1o6A1qXqFvaG77XpHZTxOcnepxXYIJlGj0GqpLXltQ=`
 
 Used this as a key and decoded that cipher 
 
