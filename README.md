@@ -1,4 +1,4 @@
-### [Dark-PreCTF Writeups](https://github.com/karma9874/CTF-Writeups#noobctf-0x1-writeups-1)
+### [Dark-PreCTF Writeups](https://github.com/karma9874/CTF-Writeups#dark-prectf-writeups-1)
 
 ### [NoobCTF 0x1 Writeups](https://github.com/karma9874/CTF-Writeups#noobctf-0x1-writeups-1)
 
