@@ -38,6 +38,7 @@ So now we build a token of HS256 with secret_key as `redraider` with value of us
 const jwt = require('jsonwebtoken')
 var token = jwt.sign({ 'user': 'admin' },'redraider', { algorithm:'HS256',noTimestamp:true}); 
 ```
+![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Images/node4.JPG)
 
 Now access the /flag using the token as cookie and we get the flag
 
