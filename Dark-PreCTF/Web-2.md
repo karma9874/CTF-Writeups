@@ -19,7 +19,7 @@ The token is using RS256 algorithm which means it needs a private key and a publ
 
 On accessing `/robots.txt` and a little bit of scrolling xD we see there is some PRIVATE KEY   
 
-So we have the private key now then we can build a token a apply the signature to it. I used nodejs jsonwebtoken to do that stuff 
+So we have the private key now then we can build a token and apply the signature to it. I used nodejs jsonwebtoken to do this stuff 
 
 ```
 const jwt = require('jsonwebtoken')
