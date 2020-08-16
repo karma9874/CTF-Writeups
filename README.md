@@ -2,6 +2,22 @@
 
 ### [Zh3ro-CTF Writeups](https://github.com/karma9874/CTF-Writeups#zh3ro-ctf-writeups-1)
 
+### [Dark-PreCTF Writeups](https://github.com/karma9874/CTF-Writeups#zh3ro-ctf-writeups-1)
+
+# Dark-PreCTF Writeups
+
+In this CTF we managed 9th spot on the leaderboard
+
+![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Images/darkpre.JPG)
+
+## Overview
+| Names                   | Category |
+|------------------------|--------|
+| [Web-1](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Web-1.md)| Web  |
+| [Web-2](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Web-2.md)| Web  |
+| [Web-3](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Web-3.md)| Web  |
+| [Web-4](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Web-4.md)| Web  |
+
 
 # NoobCTF 0x1 Writeups
 
