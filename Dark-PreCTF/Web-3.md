@@ -13,7 +13,7 @@ From the description, it suggests about the jwt key confusion attack.
 
 Log in with junk value, check cookies, use [jwt.io](http://jwt.io) on token value 
 
-On checking cookies we see there is key `token` with some value which is JWT again xD, checking it on [jwt.io]() get this
+On checking cookies we see there is key `token` with some value, checking it on [jwt.io]() get this
 
 ![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Images/token3.JPG)
 
