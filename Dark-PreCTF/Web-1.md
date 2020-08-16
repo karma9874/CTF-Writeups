@@ -34,7 +34,7 @@ On passing the jwt token which we got earlier we get a response like this `Not t
 
 ![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Images/flag1.JPG)
 
-flag -> darkCTF{345y_p345y_JWTs}
+flag -> `darkCTF{345y_p345y_JWTs}`
 
 ## What was the Bug?
 In this chall I was just checking the decoded value to have value of `user` to be `admin` (`{"user":"admin"}`) to show to the flag thats it, the code was not checking for any signature verification
