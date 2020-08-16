@@ -17,6 +17,9 @@ This is the writeups of all challs which I hosted on DarkCTF
 | [Web-2](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Web-2.md)| Web  |
 | [Web-3](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Web-3.md)| Web  |
 | [Web-4](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Web-4.md)| Web  |
+| [Gene Encryption](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/Gene%20Encryption.md)| Crypto  |
+| [m&m](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/m%26m.md)| Crypto  |
+| [Pickle Image](https://github.com/karma9874/CTF-Writeups/blob/master/Dark-PreCTF/m%26m.md)| Misc |
 
 
 # NoobCTF 0x1 Writeups
