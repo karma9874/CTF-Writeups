@@ -1,12 +1,12 @@
+### [Dark-PreCTF Writeups](https://github.com/karma9874/CTF-Writeups#noobctf-0x1-writeups-1)
+
 ### [NoobCTF 0x1 Writeups](https://github.com/karma9874/CTF-Writeups#noobctf-0x1-writeups-1)
 
 ### [Zh3ro-CTF Writeups](https://github.com/karma9874/CTF-Writeups#zh3ro-ctf-writeups-1)
 
-### [Dark-PreCTF Writeups](https://github.com/karma9874/CTF-Writeups#zh3ro-ctf-writeups-1)
-
 # Dark-PreCTF Writeups
 
-In this CTF we managed 9th spot on the leaderboard
+This is the writeups of all challs which I hosted on DarkCTF 
 
 ![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Images/darkpre.JPG)
 
