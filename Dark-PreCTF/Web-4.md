@@ -47,4 +47,4 @@ Now access the /flag using the token as cookie and we get the flag
 flag -> `darkCTF{5ymm37r1c_k3y_cr4ck1n9}`
 
 ## What was the Bug?
-Don't use secret which can be cracked with by bruteforcing it
+Don't use secret which can be cracked by bruteforcing it
