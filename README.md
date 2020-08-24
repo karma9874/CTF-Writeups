@@ -4,7 +4,7 @@
 
 ### [Zh3ro-CTF Writeups](https://github.com/karma9874/CTF-Writeups#zh3ro-ctf-writeups-1)
 
-### [CsiCTF Writeups](https://github.com/karma9874/CTF-Writeups#CsiCTF-ctf-writeups-1)
+### [CsiCTF Writeups](https://github.com/karma9874/CTF-Writeups#csictf-writeups-1)
 
 # Dark-PreCTF Writeups
 
