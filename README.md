@@ -4,6 +4,8 @@
 
 ### [Zh3ro-CTF Writeups](https://github.com/karma9874/CTF-Writeups#zh3ro-ctf-writeups-1)
 
+### [CsiCTF Writeups](https://github.com/karma9874/CTF-Writeups#csictf-writeups-1)
+
 # Dark-PreCTF Writeups
 
 This is the writeups of all challs which I hosted on DarkCTF 
@@ -56,3 +58,14 @@ In this CTF we managed 9th spot on the leaderboard
 | [WeAreRelated](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/WeAreRelated.md) | Crypto   |
 | [Analyse me](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/AnalyseMe.md) | Crypto  |
 | [Double fish](https://github.com/karma9874/CTF-Writeups/blob/master/Zh3r0_Ctf/Double_fish.md) | Crypto  |
+
+# CsiCTF Writeups
+
+In this CTF we managed 13th spot on the leaderboard
+
+![alt text](https://github.com/karma9874/CTF-Writeups/blob/master/Images/csictf.JPG)
+
+## Overview
+| Names                   | Category |
+|------------------------|--------|
+| [BroBot](https://github.com/karma9874/CTF-Writeups/blob/master/CsiCTF/brobot.md)| Misc  |
