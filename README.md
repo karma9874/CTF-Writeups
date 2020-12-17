@@ -69,3 +69,5 @@ In this CTF we managed 13th spot on the leaderboard
 | Names                   | Category |
 |------------------------|--------|
 | [BroBot](https://github.com/karma9874/CTF-Writeups/blob/master/CsiCTF/brobot.md)| Misc  |
+
+Other writeups can be found here : https://github.com/DarkArmy-ctf/ctf-writeups
