@@ -5,7 +5,7 @@ Hackers stole a lot of money from Kucoin...
 ... find tx id for me...
 ```
 
-- Lookout transaction based on data amount, address on etherscan.io
+- Lookout for transaction based on data amount, address on etherscan.io
 
 
 ```
