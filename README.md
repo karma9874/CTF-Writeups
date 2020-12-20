@@ -74,5 +74,5 @@ Other writeups can be found here : https://github.com/DarkArmy-ctf/ctf-writeups
 
 # VULNCON CTF Writeups
 
-In this CTF we played with team "Terminox" and managed to get 10th spot 
+In this CTF we played with team "Terminox" and managed to get 10th spot
 ![alt_text](https://github.com/RDxR10/CTF-Writeups-1/blob/master/Images/Top%2010%20Teams(3).png)
