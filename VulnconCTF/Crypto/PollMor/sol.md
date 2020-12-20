@@ -11,5 +11,5 @@ Character replacement for spaces : 269DHIKLSUZ
 
 Based on Pollux Cipher  > https://www.dcode.fr/pollux-cipher > set values a/t given file > decode
 ```
-Flag : VULNCON{P0LLUX_4ND_M0RSE_AR3_BR0TH3RS}  (I dont remember whether it was uppercase or lowercase)
+Flag : VULNCON{P0LLUX_4ND_M0RSE_AR3_BR0TH3RS}  (I dont remember whether it was in uppercase or lowercase)
 ```
