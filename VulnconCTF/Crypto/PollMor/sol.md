@@ -9,7 +9,7 @@ Character replacement for spaces : 269DHIKLSUZ
 
 ```
 
-Pollux Cipher based on  > https://www.dcode.fr/pollux-cipher > set values a/t given file > decode
+Based on Pollux Cipher  > https://www.dcode.fr/pollux-cipher > set values a/t given file > decode
 ```
 Flag : VULNCON{P0LLUX_4ND_M0RSE_AR3_BR0TH3RS}  (I dont remember whether it was uppercase or lowercase)
 ```
