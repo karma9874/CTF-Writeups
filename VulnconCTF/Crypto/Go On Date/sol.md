@@ -5,7 +5,7 @@ A cipher with a pic of Illuminati (Bill Cipher) is provided
 ![chall](https://github.com/RDxR10/CTF-Writeups-1/blob/master/VulnconCTF/Crypto/Go%20On%20Date/Screenshot_20201220-174204.png)
 
 
-Date Shift Cipher from challenge description  > decode.fr > set multi shift > decode
+Date Shift Cipher from challenge description  > https://www.dcode.fr/shift-cipher > set multi shift > decode
 
 
 Settings:
