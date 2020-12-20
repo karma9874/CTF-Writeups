@@ -1,6 +1,6 @@
 Basically this 
 - nc 34.87.35.133 1337
-Other things are cr*p
+- Other things are cr*p
 
 
 
