@@ -4,6 +4,9 @@ Some easy android for ya :)
 ## Attachments:
 * [ezpz.apk](./ezpz.apk)
 
+## Source Code:
+* [Source](https://github.com/karma9874/My-CTF-Challenges/tree/main/DarkCON-ctf/Reverse/ezpz)
+
 ## Solution
 
 On running the app this is the UI which only have input text but doesnt do anything other than the dancing submit button xD
